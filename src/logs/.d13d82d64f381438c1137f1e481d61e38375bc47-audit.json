@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "src\\logs\\.d13d82d64f381438c1137f1e481d61e38375bc47-audit.json",
+    "files": [
+        {
+            "date": 1714759279862,
+            "name": "src\\logs\\log-2024-05-03.json",
+            "hash": "d8eeb404a8a3eec29d0f5f1bb31ba1995429a74ce06c167cf80a14c91d7958eb"
+        },
+        {
+            "date": 1714801671316,
+            "name": "src\\logs\\log-2024-05-04.json",
+            "hash": "fb901b0c644f9135c25285c4d3a542e9a75551d05ab921b9b0ab7f188cb955f8"
+        },
+        {
+            "date": 1714895800800,
+            "name": "src\\logs\\log-2024-05-05.json",
+            "hash": "37694bc66214d53ba0201139a0bf0c2dc7c138951137027a2cb8badd5f4af516"
+        },
+        {
+            "date": 1714980308647,
+            "name": "src\\logs\\log-2024-05-06.json",
+            "hash": "2c52346259ac1322613158ea3f9fd6e8447f48b8dbb2f12acbf98267791aa1fd"
+        },
+        {
+            "date": 1715029202606,
+            "name": "src\\logs\\log-2024-05-07.json",
+            "hash": "20970e557f7d3ad528b3d8877f9937606c3528dec516ddde95b3e1a5ce48a932"
+        },
+        {
+            "date": 1715115603577,
+            "name": "src\\logs\\log-2024-05-08.json",
+            "hash": "0c7b0b853c429f63c72264ce1420a6fe21e6dfe5a1b415f29c960e2e7cbf927e"
+        },
+        {
+            "date": 1715280048523,
+            "name": "src\\logs\\log-2024-05-09.json",
+            "hash": "65b79629f309540656a9cea4fb03efd1b56ce7a76d939f86e587e316c39af663"
+        },
+        {
+            "date": 1715288403217,
+            "name": "src\\logs\\log-2024-05-10.json",
+            "hash": "a413dbb3a7b2bfec66313e594b8c8fb5188e3909d032177c74a515cb1083fb24"
+        },
+        {
+            "date": 1715431217943,
+            "name": "src\\logs\\log-2024-05-11.json",
+            "hash": "45890da41bb88fdb21b6019fdf7246f22fdb91d07693974d72c4a7c7ec22ca2c"
+        },
+        {
+            "date": 1715462200886,
+            "name": "src\\logs\\log-2024-05-12.json",
+            "hash": "db5b81c3390a150f04f7dd75c383f0d2a485b6b564e8516beaf349f0c094b571"
+        }
+    ],
+    "hashType": "sha256"
+}
